@@ -32,7 +32,7 @@ def extract_text_from_pdf(uploaded_file):
 
 def get_gemini_response(prompt_intro, resume_text, job_description):
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content([prompt_intro, resume_text, job_description])
         return response.text
     except Exception as e:
@@ -99,7 +99,7 @@ with col2:
 # --- Footer ---
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center; color: grey;'>Made with ❤️ by Samarth Chugh, Neeraj Gupta, Shubham Kotnala | Powered by Gemini API</p>",
+    "<p style='text-align: center; color: grey;'>Made with ❤️ by Jaison | Powered by Gemini API</p>",
     unsafe_allow_html=True
 )
-# project done by samarth chugh, neeraj gupta, shubham kotnala
+# project done by Jaison 
