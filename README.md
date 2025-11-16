@@ -84,7 +84,7 @@ google-generativeai>=0.3.2
 </pre>
 
 ## 🔗 Live Demo
-Check out the live app here:[Resume ATS Expert](https://resume-ats-expert.streamlit.app/)
+Check out the live app here:[Resume ATS Expert](https://jaison1711-resume-ats-expert-app-poxabb.streamlit.app/)
 
 ## 📄 License
 MIT License. Feel free to use, share, and contribute.
@@ -94,7 +94,7 @@ MIT License. Feel free to use, share, and contribute.
 2. [Streamlit](https://streamlit.io/)
 
 ## 📬 Contact
-Made with ❤️ by [Samarth Chugh](www.linkedin.com/in/-samarthchugh)
+Made with ❤️ by [Jaison](www.linkedin.com/in/jaison-masih-3126232a3)
 
 ### ⭐ Don’t forget to star this repo if you found it helpful!
 
