@@ -4,9 +4,6 @@ A smart and interactive ATS (Applicant Tracking System) Resume Analyzer built wi
 
 ---
 
-## Poster & UI
-![Poster](./images/Poster.png)
-![Poster](./images/UI.png)
 
 ## 📂 Project Structure
 
